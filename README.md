@@ -12,7 +12,7 @@
 ---
 
 ### 📊 GitHub Stats & ⌨️ Commit Streaks  
-![Nico's GitHub stats](https://github-readme-stats.vercel.app/api?username=srlsrx&show_icons=true&theme=radical) [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=srlsrx&theme=radical&card_width=460)](https://git.io/streak-stats)
+![Nico's GitHub stats](https://github-readme-stats.vercel.app/api?username=srlsrx&show_icons=true&theme=radical) [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=srlsrx&theme=radical)](https://git.io/streak-stats)
 
 ---
 
