@@ -1,4 +1,4 @@
-# 👋 ¡Hola, soy Nico!     
+# 👋 Hi there, i'm Nico!     
 🚀 **I'm a full stack developer in training, trying to make my code look as good as my GitHub profile.**  
 ![Profile views](https://komarev.com/ghpvc/?username=srlsrx&color=blue)
 
@@ -11,10 +11,10 @@
 
 ---
 
-### 📊 GitHub Stats & ⌨️ Commit Streaks  
-![Nico's GitHub stats](https://github-readme-stats.vercel.app/api?username=srlsrx&show_icons=true&theme=radical) [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=srlsrx&theme=radical)](https://git.io/streak-stats)
+### 📊 GitHub Stats 
+![Nico's GitHub stats](https://github-readme-stats.vercel.app/api?username=srlsrx&show_icons=true&theme=radical) 
 
 ---
 
-### 🌍 Encuéntrame en  
+### 🌍 Find me 
 [![LinkedIn](https://github.com/CLorant/readme-social-icons/blob/main/medium/colored/linkedin.svg)](https://www.linkedin.com/in/nicolas-fernandez-rozas)  [![Instagram](https://github.com/CLorant/readme-social-icons/blob/main/medium/colored/instagram.svg)](https://www.instagram.com/_sr.lsrx_/)
