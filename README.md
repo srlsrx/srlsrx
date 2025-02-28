@@ -17,4 +17,4 @@
 ---
 
 ### 🌍 Find me 
-[![LinkedIn](https://github.com/CLorant/readme-social-icons/blob/main/medium/colored/linkedin.svg)](https://www.linkedin.com/in/nicolas-fernandez-rozas)  [![Instagram](https://github.com/CLorant/readme-social-icons/blob/main/medium/colored/instagram.svg)](https://www.instagram.com/_sr.lsrx_/)
+[![LinkedIn](https://github.com/CLorant/readme-social-icons/blob/main/medium/colored/linkedin.svg)](https://www.linkedin.com/in/nicoferrozas/)  [![Instagram](https://github.com/CLorant/readme-social-icons/blob/main/medium/colored/instagram.svg)](https://www.instagram.com/_sr.lsrx_/)
